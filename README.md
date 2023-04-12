@@ -2,6 +2,18 @@
 
 This repository includes source code for the paper S. Wang, T. Tuor, T. Salonidis, K. K. Leung, C. Makaya, T. He, and K. Chan, "Adaptive federated learning in resource constrained edge computing systems," IEEE Journal on Selected Areas in Communications, vol. 37, no. 6, pp. 1205 – 1221, Jun. 2019.
 
+```
+@article{wang2019adaptive,
+  title={Adaptive federated learning in resource constrained edge computing systems},
+  author={Wang, Shiqiang and Tuor, Tiffany and Salonidis, Theodoros and Leung, Kin K and Makaya, Christian and He, Ting and Chan, Kevin},
+  journal={IEEE Journal on Selected Areas in Communications},
+  volume={37},
+  number={6},
+  pages={1205-1221},
+  year={2019}
+}
+```
+
 #### Getting Started
 
 The code runs on Python 3 with Tensorflow version 1 (>=1.13). To install the dependencies, run
